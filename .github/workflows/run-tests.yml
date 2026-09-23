@@ -67,3 +67,4 @@ jobs:
       - name: Run e2e tests
         working-directory: ./app/client
         run: npx playwright test
+        
